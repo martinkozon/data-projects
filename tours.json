@@ -1,0 +1,1386 @@
+[
+  {
+    "name": "The Ultimate European Grand Tour",
+    "brand": "Signature Tours",
+    "start_city": "London",
+    "end_city": "Athens",
+    "price": 14500.0,
+    "currency": "EUR",
+    "style": "Premium",
+    "duration": 31,
+    "countries": ["UK", "France", "Switzerland", "Italy", "Austria", "Hungary", "Greece"],
+    "overnight locations": {
+      "London": { "country": "UK", "overnights": 4 },
+      "Paris": { "country": "France", "overnights": 5 },
+      "Lucerne": { "country": "Switzerland", "overnights": 3 },
+      "Venice": { "country": "Italy", "overnights": 3 },
+      "Florence": { "country": "Italy", "overnights": 3 },
+      "Rome": { "country": "Italy", "overnights": 4 },
+      "Vienna": { "country": "Austria", "overnights": 3 },
+      "Budapest": { "country": "Hungary", "overnights": 2 },
+      "Athens": { "country": "Greece", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Basque & Rioja Wine Journey",
+    "brand": "Elite Escapes",
+    "start_city": "Bilbao",
+    "end_city": "Logrono",
+    "price": 11200.0,
+    "currency": "EUR",
+    "style": "Luxury",
+    "duration": 8,
+    "countries": ["Spain"],
+    "overnight locations": {
+      "Bilbao": { "country": "Spain", "overnights": 3 },
+      "San Sebastian": { "country": "Spain", "overnights": 2 },
+      "Logrono": { "country": "Spain", "overnights": 2 }
+    }
+  },
+  {
+    "name": "Eastern Europe Budget Trail",
+    "brand": "EcoTravel",
+    "start_city": "Prague",
+    "end_city": "Sofia",
+    "price": 2400.0,
+    "currency": "EUR",
+    "style": "Budget",
+    "duration": 21,
+    "countries": ["Czech Republic", "Slovakia", "Hungary", "Serbia", "Bulgaria"],
+    "overnight locations": {
+      "Prague": { "country": "Czech Republic", "overnights": 4 },
+      "Bratislava": { "country": "Slovakia", "overnights": 3 },
+      "Budapest": { "country": "Hungary", "overnights": 5 },
+      "Belgrade": { "country": "Serbia", "overnights": 4 },
+      "Sofia": { "country": "Bulgaria", "overnights": 4 }
+    }
+  },
+  {
+    "name": "Classic Italy & Sicily",
+    "brand": "Standard Global",
+    "start_city": "Milan",
+    "end_city": "Palermo",
+    "price": 4800.0,
+    "currency": "EUR",
+    "style": "Value",
+    "duration": 18,
+    "countries": ["Italy"],
+    "overnight locations": {
+      "Milan": { "country": "Italy", "overnights": 3 },
+      "Venice": { "country": "Italy", "overnights": 3 },
+      "Florence": { "country": "Italy", "overnights": 3 },
+      "Rome": { "country": "Italy", "overnights": 4 },
+      "Naples": { "country": "Italy", "overnights": 2 },
+      "Palermo": { "country": "Italy", "overnights": 2 }
+    }
+  },
+  {
+    "name": "Nordic Island Hopping",
+    "brand": "Signature Tours",
+    "start_city": "Reykjavik",
+    "end_city": "Torshavn",
+    "price": 7200.0,
+    "currency": "EUR",
+    "style": "Premium",
+    "duration": 14,
+    "countries": ["Iceland", "Faroe Islands"],
+    "overnight locations": {
+      "Reykjavik": { "country": "Iceland", "overnights": 4 },
+      "Akureyri": { "country": "Iceland", "overnights": 3 },
+      "Egilsstadir": { "country": "Iceland", "overnights": 3 },
+      "Torshavn": { "country": "Faroe Islands", "overnights": 3 }
+    }
+  },
+  {
+    "name": "French & Italian Riviera",
+    "brand": "EcoTravel",
+    "start_city": "Nice",
+    "end_city": "Genoa",
+    "price": 1800.0,
+    "currency": "EUR",
+    "style": "Budget",
+    "duration": 10,
+    "countries": ["France", "Italy"],
+    "overnight locations": {
+      "Nice": { "country": "France", "overnights": 3 },
+      "Menton": { "country": "France", "overnights": 2 },
+      "San Remo": { "country": "Italy", "overnights": 2 },
+      "Genoa": { "country": "Italy", "overnights": 2 }
+    }
+  },
+  {
+    "name": "Austro-Hungarian Legacy",
+    "brand": "Standard Global",
+    "start_city": "Vienna",
+    "end_city": "Zagreb",
+    "price": 2950.0,
+    "currency": "EUR",
+    "style": "Value",
+    "duration": 12,
+    "countries": ["Austria", "Hungary", "Croatia"],
+    "overnight locations": {
+      "Vienna": { "country": "Austria", "overnights": 4 },
+      "Budapest": { "country": "Hungary", "overnights": 4 },
+      "Zagreb": { "country": "Croatia", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Dolomites Hiking & Wellness",
+    "brand": "Elite Escapes",
+    "start_city": "Venice",
+    "end_city": "Bolzano",
+    "price": 12800.0,
+    "currency": "EUR",
+    "style": "Luxury",
+    "duration": 10,
+    "countries": ["Italy"],
+    "overnight locations": {
+      "Venice": { "country": "Italy", "overnights": 2 },
+      "Cortina": { "country": "Italy", "overnights": 4 },
+      "Bolzano": { "country": "Italy", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Portugal’s River of Gold",
+    "brand": "Signature Tours",
+    "start_city": "Lisbon",
+    "end_city": "Porto",
+    "price": 4200.0,
+    "currency": "EUR",
+    "style": "Premium",
+    "duration": 11,
+    "countries": ["Portugal"],
+    "overnight locations": {
+      "Lisbon": { "country": "Portugal", "overnights": 4 },
+      "Coimbra": { "country": "Portugal", "overnights": 2 },
+      "Porto": { "country": "Portugal", "overnights": 4 }
+    }
+  },
+  {
+    "name": "Benelux Family Discovery",
+    "brand": "Standard Global",
+    "start_city": "Brussels",
+    "end_city": "Amsterdam",
+    "price": 3100.0,
+    "currency": "EUR",
+    "style": "Value",
+    "duration": 12,
+    "countries": ["Belgium", "Luxembourg", "Netherlands"],
+    "overnight locations": {
+      "Brussels": { "country": "Belgium", "overnights": 3 },
+      "Luxembourg City": { "country": "Luxembourg", "overnights": 2 },
+      "Eindhoven": { "country": "Netherlands", "overnights": 2 },
+      "Amsterdam": { "country": "Netherlands", "overnights": 4 }
+    }
+  },
+  {
+    "name": "The Great Saxon Tour",
+    "brand": "EcoTravel",
+    "start_city": "Berlin",
+    "end_city": "Leipzig",
+    "price": 1250.0,
+    "currency": "EUR",
+    "style": "Budget",
+    "duration": 7,
+    "countries": ["Germany"],
+    "overnight locations": {
+      "Berlin": { "country": "Germany", "overnights": 3 },
+      "Dresden": { "country": "Germany", "overnights": 2 },
+      "Leipzig": { "country": "Germany", "overnights": 1 }
+    }
+  },
+  {
+    "name": "Peloponnese Deep Dive",
+    "brand": "Signature Tours",
+    "start_city": "Athens",
+    "end_city": "Athens",
+    "price": 5400.0,
+    "currency": "EUR",
+    "style": "Premium",
+    "duration": 14,
+    "countries": ["Greece"],
+    "overnight locations": {
+      "Athens": { "country": "Greece", "overnights": 2 },
+      "Nafplio": { "country": "Greece", "overnights": 4 },
+      "Monemvasia": { "country": "Greece", "overnights": 3 },
+      "Kalamata": { "country": "Greece", "overnights": 4 }
+    }
+  },
+  {
+    "name": "Arctic Wildlife Wonders",
+    "brand": "Elite Escapes",
+    "start_city": "Longyearbyen",
+    "end_city": "Longyearbyen",
+    "price": 28000.0,
+    "currency": "EUR",
+    "style": "Luxury",
+    "duration": 12,
+    "countries": ["Norway"],
+    "overnight locations": {
+      "Longyearbyen": { "country": "Norway", "overnights": 3 },
+      "Expedition Vessel": { "country": "International", "overnights": 8 }
+    }
+  },
+  {
+    "name": "European Heritage Path",
+    "brand": "Standard Global",
+    "start_city": "Paris",
+    "end_city": "Vienna",
+    "price": 5200.0,
+    "currency": "EUR",
+    "style": "Value",
+    "duration": 19,
+    "countries": ["France", "Germany", "Switzerland", "Austria"],
+    "overnight locations": {
+      "Paris": { "country": "France", "overnights": 4 },
+      "Strasbourg": { "country": "France", "overnights": 3 },
+      "Heidelberg": { "country": "Germany", "overnights": 2 },
+      "Zurich": { "country": "Switzerland", "overnights": 3 },
+      "Innsbruck": { "country": "Austria", "overnights": 3 },
+      "Vienna": { "country": "Austria", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Andalusian & Algarve Coast",
+    "brand": "EcoTravel",
+    "start_city": "Malaga",
+    "end_city": "Lagos",
+    "price": 1600.0,
+    "currency": "EUR",
+    "style": "Budget",
+    "duration": 12,
+    "countries": ["Spain", "Portugal"],
+    "overnight locations": {
+      "Malaga": { "country": "Spain", "overnights": 3 },
+      "Seville": { "country": "Spain", "overnights": 3 },
+      "Faro": { "country": "Portugal", "overnights": 2 },
+      "Lagos": { "country": "Portugal", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Aegean Luxury Escape",
+    "brand": "Elite Escapes",
+    "start_city": "Bodrum",
+    "end_city": "Rhodes",
+    "price": 16500.0,
+    "currency": "EUR",
+    "style": "Luxury",
+    "duration": 11,
+    "countries": ["Turkey", "Greece"],
+    "overnight locations": {
+      "Bodrum": { "country": "Turkey", "overnights": 5 },
+      "Rhodes": { "country": "Greece", "overnights": 5 }
+    }
+  },
+  {
+    "name": "Danish & Swedish Coastal Trail",
+    "brand": "Signature Tours",
+    "start_city": "Copenhagen",
+    "end_city": "Stockholm",
+    "price": 5900.0,
+    "currency": "EUR",
+    "style": "Premium",
+    "duration": 15,
+    "countries": ["Denmark", "Sweden"],
+    "overnight locations": {
+      "Copenhagen": { "country": "Denmark", "overnights": 4 },
+      "Malmo": { "country": "Sweden", "overnights": 2 },
+      "Gothenburg": { "country": "Sweden", "overnights": 4 },
+      "Stockholm": { "country": "Sweden", "overnights": 4 }
+    }
+  },
+  {
+    "name": "Emerald & Highland Express",
+    "brand": "Standard Global",
+    "start_city": "Dublin",
+    "end_city": "Edinburgh",
+    "price": 3800.0,
+    "currency": "EUR",
+    "style": "Value",
+    "duration": 16,
+    "countries": ["Ireland", "UK"],
+    "overnight locations": {
+      "Dublin": { "country": "Ireland", "overnights": 3 },
+      "Belfast": { "country": "Ireland", "overnights": 3 },
+      "Glasgow": { "country": "UK", "overnights": 3 },
+      "Isle of Skye": { "country": "UK", "overnights": 3 },
+      "Edinburgh": { "country": "UK", "overnights": 3 }
+    }
+  },
+  {
+    "name": "The Great Balkan Circle",
+    "brand": "EcoTravel",
+    "start_city": "Bucharest",
+    "end_city": "Bucharest",
+    "price": 3200.0,
+    "currency": "EUR",
+    "style": "Budget",
+    "duration": 25,
+    "countries": ["Romania", "Bulgaria", "Macedonia", "Albania", "Greece"],
+    "overnight locations": {
+      "Bucharest": { "country": "Romania", "overnights": 3 },
+      "Sofia": { "country": "Bulgaria", "overnights": 3 },
+      "Skopje": { "country": "Macedonia", "overnights": 3 },
+      "Tirana": { "country": "Albania", "overnights": 4 },
+      "Thessaloniki": { "country": "Greece", "overnights": 4 },
+      "Plovdiv": { "country": "Bulgaria", "overnights": 3 },
+      "Constanta": { "country": "Romania", "overnights": 4 }
+    }
+  },
+  {
+    "name": "Mediterranean Legacy Tour",
+    "brand": "Signature Tours",
+    "start_city": "Istanbul",
+    "end_city": "Athens",
+    "price": 7800.0,
+    "currency": "EUR",
+    "style": "Premium",
+    "duration": 21,
+    "countries": ["Turkey", "Greece"],
+    "overnight locations": {
+      "Istanbul": { "country": "Turkey", "overnights": 5 },
+      "Canakkale": { "country": "Turkey", "overnights": 2 },
+      "Izmir": { "country": "Turkey", "overnights": 3 },
+      "Rhodes": { "country": "Greece", "overnights": 3 },
+      "Crete": { "country": "Greece", "overnights": 4 },
+      "Athens": { "country": "Greece", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Western Europe Highlights",
+    "brand": "EcoTravel",
+    "start_city": "London",
+    "end_city": "Amsterdam",
+    "price": 1450.0,
+    "currency": "EUR",
+    "style": "Budget",
+    "duration": 11,
+    "countries": ["UK", "France", "Belgium", "Netherlands"],
+    "overnight locations": {
+      "London": { "country": "UK", "overnights": 2 },
+      "Paris": { "country": "France", "overnights": 3 },
+      "Brussels": { "country": "Belgium", "overnights": 2 },
+      "Amsterdam": { "country": "Netherlands", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Grand Italian Masterpiece",
+    "brand": "Elite Escapes",
+    "start_city": "Rome",
+    "end_city": "Venice",
+    "price": 11200.0,
+    "currency": "EUR",
+    "style": "Luxury",
+    "duration": 14,
+    "countries": ["Italy"],
+    "overnight locations": {
+      "Rome": { "country": "Italy", "overnights": 4 },
+      "Siena": { "country": "Italy", "overnights": 2 },
+      "Florence": { "country": "Italy", "overnights": 3 },
+      "Venice": { "country": "Italy", "overnights": 4 }
+    }
+  },
+  {
+    "name": "Iberian Explorer",
+    "brand": "Signature Tours",
+    "start_city": "Lisbon",
+    "end_city": "Madrid",
+    "price": 4200.0,
+    "currency": "EUR",
+    "style": "Premium",
+    "duration": 12,
+    "countries": ["Portugal", "Spain"],
+    "overnight locations": {
+      "Lisbon": { "country": "Portugal", "overnights": 3 },
+      "Seville": { "country": "Spain", "overnights": 3 },
+      "Granada": { "country": "Spain", "overnights": 2 },
+      "Madrid": { "country": "Spain", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Central Europe Express",
+    "brand": "Standard Global",
+    "start_city": "Berlin",
+    "end_city": "Budapest",
+    "price": 2600.0,
+    "currency": "EUR",
+    "style": "Value",
+    "duration": 13,
+    "countries": ["Germany", "Czech Republic", "Austria", "Hungary"],
+    "overnight locations": {
+      "Berlin": { "country": "Germany", "overnights": 3 },
+      "Prague": { "country": "Czech Republic", "overnights": 3 },
+      "Vienna": { "country": "Austria", "overnights": 3 },
+      "Budapest": { "country": "Hungary", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Nordic Fjords & Capitals",
+    "brand": "Arctic Vistas",
+    "start_city": "Copenhagen",
+    "end_city": "Oslo",
+    "price": 6800.0,
+    "currency": "EUR",
+    "style": "Premium",
+    "duration": 15,
+    "countries": ["Denmark", "Sweden", "Norway"],
+    "overnight locations": {
+      "Copenhagen": { "country": "Denmark", "overnights": 3 },
+      "Stockholm": { "country": "Sweden", "overnights": 3 },
+      "Bergen": { "country": "Norway", "overnights": 4 },
+      "Flam": { "country": "Norway", "overnights": 2 },
+      "Oslo": { "country": "Norway", "overnights": 2 }
+    }
+  },
+  {
+    "name": "Balkan Adventure",
+    "brand": "Nomad Tracks",
+    "start_city": "Split",
+    "end_city": "Athens",
+    "price": 1950.0,
+    "currency": "EUR",
+    "style": "Budget",
+    "duration": 14,
+    "countries": ["Croatia", "Montenegro", "Albania", "Greece"],
+    "overnight locations": {
+      "Split": { "country": "Croatia", "overnights": 2 },
+      "Dubrovnik": { "country": "Croatia", "overnights": 2 },
+      "Kotor": { "country": "Montenegro", "overnights": 2 },
+      "Tirana": { "country": "Albania", "overnights": 2 },
+      "Kalambaka": { "country": "Greece", "overnights": 2 },
+      "Athens": { "country": "Greece", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Swiss Alpine Elegance",
+    "brand": "Elite Escapes",
+    "start_city": "Zurich",
+    "end_city": "Geneva",
+    "price": 14200.0,
+    "currency": "EUR",
+    "style": "Luxury",
+    "duration": 20,
+    "countries": ["Switzerland"],
+    "overnight locations": {
+      "Zurich": { "country": "Switzerland", "overnights": 3 },
+      "Lucerne": { "country": "Switzerland", "overnights": 3 },
+      "Grindelwald": { "country": "Switzerland", "overnights": 4 },
+      "Zermatt": { "country": "Switzerland", "overnights": 4 },
+      "St. Moritz": { "country": "Switzerland", "overnights": 3 },
+      "Geneva": { "country": "Switzerland", "overnights": 2 }
+    }
+  },
+  {
+    "name": "Imperial Capitals",
+    "brand": "Standard Global",
+    "start_city": "Vienna",
+    "end_city": "Warsaw",
+    "price": 3100.0,
+    "currency": "EUR",
+    "style": "Value",
+    "duration": 13,
+    "countries": ["Austria", "Slovakia", "Poland"],
+    "overnight locations": {
+      "Vienna": { "country": "Austria", "overnights": 3 },
+      "Bratislava": { "country": "Slovakia", "overnights": 2 },
+      "Krakow": { "country": "Poland", "overnights": 4 },
+      "Warsaw": { "country": "Poland", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Mediterranean Sun & Sail",
+    "brand": "EcoTravel",
+    "start_city": "Nice",
+    "end_city": "Barcelona",
+    "price": 2100.0,
+    "currency": "EUR",
+    "style": "Budget",
+    "duration": 13,
+    "countries": ["France", "Monaco", "Spain"],
+    "overnight locations": {
+      "Nice": { "country": "France", "overnights": 4 },
+      "Marseille": { "country": "France", "overnights": 2 },
+      "Montpellier": { "country": "France", "overnights": 2 },
+      "Barcelona": { "country": "Spain", "overnights": 4 }
+    }
+  },
+  {
+    "name": "Scottish Highlands & Islands",
+    "brand": "Signature Tours",
+    "start_city": "Edinburgh",
+    "end_city": "Glasgow",
+    "price": 5400.0,
+    "currency": "EUR",
+    "style": "Premium",
+    "duration": 15,
+    "countries": ["UK"],
+    "overnight locations": {
+      "Edinburgh": { "country": "UK", "overnights": 4 },
+      "Inverness": { "country": "UK", "overnights": 3 },
+      "Isle of Skye": { "country": "UK", "overnights": 3 },
+      "Fort William": { "country": "UK", "overnights": 2 },
+      "Glasgow": { "country": "UK", "overnights": 2 }
+    }
+  },
+  {
+    "name": "Icelands Ring Road Explorer",
+    "brand": "EcoTravel",
+    "start_city": "Reykjavik",
+    "end_city": "Reykjavik",
+    "price": 3800.0,
+    "currency": "EUR",
+    "style": "Value",
+    "duration": 13,
+    "countries": ["Iceland"],
+    "overnight locations": {
+      "Reykjavik": { "country": "Iceland", "overnights": 3 },
+      "Vik": { "country": "Iceland", "overnights": 2 },
+      "Hofn": { "country": "Iceland", "overnights": 2 },
+      "Akureyri": { "country": "Iceland", "overnights": 3 },
+      "Snaefellsnes": { "country": "Iceland", "overnights": 2 }
+    }
+  },
+  {
+    "name": "Trans-Slovenian Trail",
+    "brand": "Nomad Tracks",
+    "start_city": "Ljubljana",
+    "end_city": "Piran",
+    "price": 1400.0,
+    "currency": "EUR",
+    "style": "Budget",
+    "duration": 10,
+    "countries": ["Slovenia"],
+    "overnight locations": {
+      "Ljubljana": { "country": "Slovenia", "overnights": 3 },
+      "Lake Bled": { "country": "Slovenia", "overnights": 2 },
+      "Bovec": { "country": "Slovenia", "overnights": 2 },
+      "Piran": { "country": "Slovenia", "overnights": 2 }
+    }
+  },
+  {
+    "name": "French Gastronomy Grand Tour",
+    "brand": "Elite Escapes",
+    "start_city": "Paris",
+    "end_city": "Bordeaux",
+    "price": 22500.0,
+    "currency": "EUR",
+    "style": "Luxury",
+    "duration": 24,
+    "countries": ["France"],
+    "overnight locations": {
+      "Paris": { "country": "France", "overnights": 5 },
+      "Reims": { "country": "France", "overnights": 3 },
+      "Lyon": { "country": "France", "overnights": 4 },
+      "Avignon": { "country": "France", "overnights": 4 },
+      "Carcassonne": { "country": "France", "overnights": 2 },
+      "Bordeaux": { "country": "France", "overnights": 5 }
+    }
+  },
+  {
+    "name": "Baltic Wonders",
+    "brand": "Standard Global",
+    "start_city": "Tallinn",
+    "end_city": "Vilnius",
+    "price": 2400.0,
+    "currency": "EUR",
+    "style": "Value",
+    "duration": 12,
+    "countries": ["Estonia", "Latvia", "Lithuania"],
+    "overnight locations": {
+      "Tallinn": { "country": "Estonia", "overnights": 3 },
+      "Riga": { "country": "Latvia", "overnights": 3 },
+      "Kaunas": { "country": "Lithuania", "overnights": 2 },
+      "Vilnius": { "country": "Lithuania", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Aegean Odyssey",
+    "brand": "Signature Tours",
+    "start_city": "Athens",
+    "end_city": "Santorini",
+    "price": 5900.0,
+    "currency": "EUR",
+    "style": "Premium",
+    "duration": 17,
+    "countries": ["Greece"],
+    "overnight locations": {
+      "Athens": { "country": "Greece", "overnights": 3 },
+      "Mykonos": { "country": "Greece", "overnights": 3 },
+      "Naxos": { "country": "Greece", "overnights": 3 },
+      "Crete": { "country": "Greece", "overnights": 4 },
+      "Santorini": { "country": "Greece", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Irish Castle & Coastline",
+    "brand": "Elite Escapes",
+    "start_city": "Dublin",
+    "end_city": "Shannon",
+    "price": 11500.0,
+    "currency": "EUR",
+    "style": "Luxury",
+    "duration": 15,
+    "countries": ["Ireland"],
+    "overnight locations": {
+      "Dublin": { "country": "Ireland", "overnights": 4 },
+      "Cork": { "country": "Ireland", "overnights": 3 },
+      "Killarney": { "country": "Ireland", "overnights": 4 },
+      "Galway": { "country": "Ireland", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Central Europe Discovery",
+    "brand": "EcoTravel",
+    "start_city": "Munich",
+    "end_city": "Prague",
+    "price": 1800.0,
+    "currency": "EUR",
+    "style": "Budget",
+    "duration": 11,
+    "countries": ["Germany", "Austria", "Czech Republic"],
+    "overnight locations": {
+      "Munich": { "country": "Germany", "overnights": 3 },
+      "Salzburg": { "country": "Austria", "overnights": 2 },
+      "Cesky Krumlov": { "country": "Czech Republic", "overnights": 2 },
+      "Prague": { "country": "Czech Republic", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Portuguese Heritage",
+    "brand": "Standard Global",
+    "start_city": "Porto",
+    "end_city": "Lisbon",
+    "price": 2200.0,
+    "currency": "EUR",
+    "style": "Value",
+    "duration": 12,
+    "countries": ["Portugal"],
+    "overnight locations": {
+      "Porto": { "country": "Portugal", "overnights": 3 },
+      "Coimbra": { "country": "Portugal", "overnights": 2 },
+      "Evora": { "country": "Portugal", "overnights": 2 },
+      "Lisbon": { "country": "Portugal", "overnights": 4 }
+    }
+  },
+  {
+    "name": "Andalusian Soul",
+    "brand": "Signature Tours",
+    "start_city": "Malaga",
+    "end_city": "Seville",
+    "price": 4800.0,
+    "currency": "EUR",
+    "style": "Premium",
+    "duration": 13,
+    "countries": ["Spain"],
+    "overnight locations": {
+      "Malaga": { "country": "Spain", "overnights": 3 },
+      "Granada": { "country": "Spain", "overnights": 3 },
+      "Cordoba": { "country": "Spain", "overnights": 2 },
+      "Seville": { "country": "Spain", "overnights": 4 }
+    }
+  },
+  {
+    "name": "Trans-Continental Explorer",
+    "brand": "Nomad Tracks",
+    "start_city": "London",
+    "end_city": "Istanbul",
+    "price": 4600.0,
+    "currency": "EUR",
+    "style": "Budget",
+    "duration": 25,
+    "countries": ["UK", "France", "Germany", "Austria", "Hungary", "Romania", "Bulgaria", "Turkey"],
+    "overnight locations": {
+      "London": { "country": "UK", "overnights": 3 },
+      "Paris": { "country": "France", "overnights": 3 },
+      "Munich": { "country": "Germany", "overnights": 3 },
+      "Vienna": { "country": "Austria", "overnights": 3 },
+      "Budapest": { "country": "Hungary", "overnights": 3 },
+      "Bucharest": { "country": "Romania", "overnights": 3 },
+      "Sofia": { "country": "Bulgaria", "overnights": 2 },
+      "Istanbul": { "country": "Turkey", "overnights": 4 }
+    }
+  },
+  {
+    "name": "Balkan Odyssey",
+    "brand": "Standard Global",
+    "start_city": "Sarajevo",
+    "end_city": "Dubrovnik",
+    "price": 2450.0,
+    "currency": "EUR",
+    "style": "Value",
+    "duration": 12,
+    "countries": ["Bosnia and Herzegovina", "Montenegro", "Croatia"],
+    "overnight locations": {
+      "Sarajevo": { "country": "Bosnia and Herzegovina", "overnights": 3 },
+      "Mostar": { "country": "Bosnia and Herzegovina", "overnights": 2 },
+      "Kotor": { "country": "Montenegro", "overnights": 3 },
+      "Dubrovnik": { "country": "Croatia", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Transylvanian Legends",
+    "brand": "EcoTravel",
+    "start_city": "Bucharest",
+    "end_city": "Cluj-Napoca",
+    "price": 1150.0,
+    "currency": "EUR",
+    "style": "Budget",
+    "duration": 11,
+    "countries": ["Romania"],
+    "overnight locations": {
+      "Bucharest": { "country": "Romania", "overnights": 2 },
+      "Brasov": { "country": "Romania", "overnights": 3 },
+      "Sibiu": { "country": "Romania", "overnights": 2 },
+      "Sighisoara": { "country": "Romania", "overnights": 1 },
+      "Cluj-Napoca": { "country": "Romania", "overnights": 2 }
+    }
+  },
+  {
+    "name": "Aegean Blue Luxe",
+    "brand": "Elite Escapes",
+    "start_city": "Athens",
+    "end_city": "Mykonos",
+    "price": 15800.0,
+    "currency": "EUR",
+    "style": "Luxury",
+    "duration": 17,
+    "countries": ["Greece"],
+    "overnight locations": {
+      "Athens": { "country": "Greece", "overnights": 4 },
+      "Santorini": { "country": "Greece", "overnights": 5 },
+      "Naxos": { "country": "Greece", "overnights": 3 },
+      "Mykonos": { "country": "Greece", "overnights": 4 }
+    }
+  },
+  {
+    "name": "Tuscan Sun & Hills",
+    "brand": "Signature Tours",
+    "start_city": "Florence",
+    "end_city": "Florence",
+    "price": 4900.0,
+    "currency": "EUR",
+    "style": "Premium",
+    "duration": 12,
+    "countries": ["Italy"],
+    "overnight locations": {
+      "Florence": { "country": "Italy", "overnights": 4 },
+      "Siena": { "country": "Italy", "overnights": 3 },
+      "Lucca": { "country": "Italy", "overnights": 2 },
+      "San Gimignano": { "country": "Italy", "overnights": 2 }
+    }
+  },
+  {
+    "name": "Polish Heritage Trail",
+    "brand": "Standard Global",
+    "start_city": "Warsaw",
+    "end_city": "Krakow",
+    "price": 1850.0,
+    "currency": "EUR",
+    "style": "Value",
+    "duration": 13,
+    "countries": ["Poland"],
+    "overnight locations": {
+      "Warsaw": { "country": "Poland", "overnights": 3 },
+      "Gdansk": { "country": "Poland", "overnights": 3 },
+      "Wroclaw": { "country": "Poland", "overnights": 2 },
+      "Krakow": { "country": "Poland", "overnights": 4 }
+    }
+  },
+  {
+    "name": "Adriatic Azure",
+    "brand": "Signature Tours",
+    "start_city": "Ljubljana",
+    "end_city": "Dubrovnik",
+    "price": 6200.0,
+    "currency": "EUR",
+    "style": "Premium",
+    "duration": 16,
+    "countries": ["Slovenia", "Croatia"],
+    "overnight locations": {
+      "Ljubljana": { "country": "Slovenia", "overnights": 3 },
+      "Lake Bled": { "country": "Slovenia", "overnights": 3 },
+      "Zadar": { "country": "Croatia", "overnights": 2 },
+      "Split": { "country": "Croatia", "overnights": 3 },
+      "Dubrovnik": { "country": "Croatia", "overnights": 4 }
+    }
+  },
+  {
+    "name": "Black Forest & Rhine Valley",
+    "brand": "Standard Global",
+    "start_city": "Frankfurt",
+    "end_city": "Heidelberg",
+    "price": 2100.0,
+    "currency": "EUR",
+    "style": "Value",
+    "duration": 13,
+    "countries": ["Germany"],
+    "overnight locations": {
+      "Frankfurt": { "country": "Germany", "overnights": 2 },
+      "Mainz": { "country": "Germany", "overnights": 2 },
+      "Baden-Baden": { "country": "Germany", "overnights": 3 },
+      "Freiburg": { "country": "Germany", "overnights": 3 },
+      "Heidelberg": { "country": "Germany", "overnights": 2 }
+    }
+  },
+  {
+    "name": "Andalusian Highlights",
+    "brand": "EcoTravel",
+    "start_city": "Seville",
+    "end_city": "Malaga",
+    "price": 1250.0,
+    "currency": "EUR",
+    "style": "Budget",
+    "duration": 10,
+    "countries": ["Spain"],
+    "overnight locations": {
+      "Seville": { "country": "Spain", "overnights": 3 },
+      "Cordoba": { "country": "Spain", "overnights": 2 },
+      "Granada": { "country": "Spain", "overnights": 2 },
+      "Malaga": { "country": "Spain", "overnights": 2 }
+    }
+  },
+  {
+    "name": "Swiss Alpine Grandeur",
+    "brand": "Signature Tours",
+    "start_city": "Geneva",
+    "end_city": "Zurich",
+    "price": 7800.0,
+    "currency": "EUR",
+    "style": "Premium",
+    "duration": 15,
+    "countries": ["Switzerland"],
+    "overnight locations": {
+      "Geneva": { "country": "Switzerland", "overnights": 3 },
+      "Montreux": { "country": "Switzerland", "overnights": 2 },
+      "Interlaken": { "country": "Switzerland", "overnights": 4 },
+      "Lucerne": { "country": "Switzerland", "overnights": 3 },
+      "Zurich": { "country": "Switzerland", "overnights": 2 }
+    }
+  },
+  {
+    "name": "Emerald Isle Explorer",
+    "brand": "EcoTravel",
+    "start_city": "Dublin",
+    "end_city": "Dublin",
+    "price": 1650.0,
+    "currency": "EUR",
+    "style": "Budget",
+    "duration": 14,
+    "countries": ["Ireland"],
+    "overnight locations": {
+      "Dublin": { "country": "Ireland", "overnights": 3 },
+      "Belfast": { "country": "Ireland", "overnights": 2 },
+      "Galway": { "country": "Ireland", "overnights": 3 },
+      "Killarney": { "country": "Ireland", "overnights": 2 },
+      "Cork": { "country": "Ireland", "overnights": 2 }
+    }
+  },
+  {
+    "name": "Sicilian Heritage",
+    "brand": "Elite Escapes",
+    "start_city": "Palermo",
+    "end_city": "Taormina",
+    "price": 13400.0,
+    "currency": "EUR",
+    "style": "Luxury",
+    "duration": 14,
+    "countries": ["Italy"],
+    "overnight locations": {
+      "Palermo": { "country": "Italy", "overnights": 4 },
+      "Agrigento": { "country": "Italy", "overnights": 2 },
+      "Siracusa": { "country": "Italy", "overnights": 3 },
+      "Taormina": { "country": "Italy", "overnights": 4 }
+    }
+  },
+  {
+    "name": "Baltic Discovery",
+    "brand": "EcoTravel",
+    "start_city": "Vilnius",
+    "end_city": "Tallinn",
+    "price": 1400.0,
+    "currency": "EUR",
+    "style": "Budget",
+    "duration": 9,
+    "countries": ["Lithuania", "Latvia", "Estonia"],
+    "overnight locations": {
+      "Vilnius": { "country": "Lithuania", "overnights": 2 },
+      "Riga": { "country": "Latvia", "overnights": 3 },
+      "Tallinn": { "country": "Estonia", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Loire Valley Chateaux",
+    "brand": "Signature Tours",
+    "start_city": "Paris",
+    "end_city": "Paris",
+    "price": 5200.0,
+    "currency": "EUR",
+    "style": "Premium",
+    "duration": 11,
+    "countries": ["France"],
+    "overnight locations": {
+      "Paris": { "country": "France", "overnights": 3 },
+      "Tours": { "country": "France", "overnights": 4 },
+      "Amboise": { "country": "France", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Cotswolds & Cornish Coast",
+    "brand": "Standard Global",
+    "start_city": "London",
+    "end_city": "Bristol",
+    "price": 3400.0,
+    "currency": "EUR",
+    "style": "Value",
+    "duration": 15,
+    "countries": ["UK"],
+    "overnight locations": {
+      "London": { "country": "UK", "overnights": 3 },
+      "Oxford": { "country": "UK", "overnights": 2 },
+      "Stow-on-the-Wold": { "country": "UK", "overnights": 3 },
+      "St Ives": { "country": "UK", "overnights": 4 },
+      "Bath": { "country": "UK", "overnights": 2 }
+    }
+  },
+  {
+    "name": "Nordic Fjord Safari",
+    "brand": "Standard Global",
+    "start_city": "Oslo",
+    "end_city": "Bergen",
+    "price": 3100.0,
+    "currency": "EUR",
+    "style": "Value",
+    "duration": 12,
+    "countries": ["Norway"],
+    "overnight locations": {
+      "Oslo": { "country": "Norway", "overnights": 3 },
+      "Lillehammer": { "country": "Norway", "overnights": 2 },
+      "Geiranger": { "country": "Norway", "overnights": 3 },
+      "Bergen": { "country": "Norway", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Ancient Greece & Islands",
+    "brand": "Standard Global",
+    "start_city": "Athens",
+    "end_city": "Athens",
+    "price": 2800.0,
+    "currency": "EUR",
+    "style": "Value",
+    "duration": 12,
+    "countries": ["Greece"],
+    "overnight locations": {
+      "Athens": { "country": "Greece", "overnights": 3 },
+      "Delphi": { "country": "Greece", "overnights": 2 },
+      "Meteora": { "country": "Greece", "overnights": 2 },
+      "Santorini": { "country": "Greece", "overnights": 3 },
+      "Athens-Return": { "country": "Greece", "overnights": 1 }
+    }
+  },
+  {
+    "name": "Iberian Coastal Road",
+    "brand": "Signature Tours",
+    "start_city": "Lisbon",
+    "end_city": "Barcelona",
+    "price": 7200.0,
+    "currency": "EUR",
+    "style": "Premium",
+    "duration": 17,
+    "countries": ["Portugal", "Spain"],
+    "overnight locations": {
+      "Lisbon": { "country": "Portugal", "overnights": 4 },
+      "Algarve": { "country": "Portugal", "overnights": 3 },
+      "Seville": { "country": "Spain", "overnights": 3 },
+      "Valencia": { "country": "Spain", "overnights": 2 },
+      "Barcelona": { "country": "Spain", "overnights": 4 }
+    }
+  },
+  {
+    "name": "Vienna to Venice",
+    "brand": "EcoTravel",
+    "start_city": "Vienna",
+    "end_city": "Venice",
+    "price": 1750.0,
+    "currency": "EUR",
+    "style": "Budget",
+    "duration": 10,
+    "countries": ["Austria", "Slovenia", "Italy"],
+    "overnight locations": {
+      "Vienna": { "country": "Austria", "overnights": 3 },
+      "Ljubljana": { "country": "Slovenia", "overnights": 3 },
+      "Venice": { "country": "Italy", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Provencal Charm",
+    "brand": "Elite Escapes",
+    "start_city": "Nice",
+    "end_city": "Avignon",
+    "price": 14900.0,
+    "currency": "EUR",
+    "style": "Luxury",
+    "duration": 16,
+    "countries": ["France"],
+    "overnight locations": {
+      "Nice": { "country": "France", "overnights": 4 },
+      "Saint-Tropez": { "country": "France", "overnights": 3 },
+      "Aix-en-Provence": { "country": "France", "overnights": 3 },
+      "Avignon": { "country": "France", "overnights": 4 }
+    }
+  },
+  {
+    "name": "Grand Bavaria & Tyrol",
+    "brand": "Signature Tours",
+    "start_city": "Munich",
+    "end_city": "Innsbruck",
+    "price": 5100.0,
+    "currency": "EUR",
+    "style": "Premium",
+    "duration": 13,
+    "countries": ["Germany", "Austria"],
+    "overnight locations": {
+      "Munich": { "country": "Germany", "overnights": 4 },
+      "Fussen": { "country": "Germany", "overnights": 2 },
+      "Salzburg": { "country": "Austria", "overnights": 3 },
+      "Innsbruck": { "country": "Austria", "overnights": 3 }
+    }
+  },
+  {
+    "name": "The Great British Loop",
+    "brand": "Standard Global",
+    "start_city": "London",
+    "end_city": "London",
+    "price": 3800.0,
+    "currency": "EUR",
+    "style": "Value",
+    "duration": 15,
+    "countries": ["UK"],
+    "overnight locations": {
+      "London": { "country": "UK", "overnights": 3 },
+      "York": { "country": "UK", "overnights": 2 },
+      "Edinburgh": { "country": "UK", "overnights": 3 },
+      "Liverpool": { "country": "UK", "overnights": 2 },
+      "Cotswolds": { "country": "UK", "overnights": 2 },
+      "London-Return": { "country": "UK", "overnights": 2 }
+    }
+  },
+  {
+    "name": "Malta Archipelago Escape",
+    "brand": "Elite Escapes",
+    "start_city": "Valletta",
+    "end_city": "Gozo",
+    "price": 9200.0,
+    "currency": "EUR",
+    "style": "Luxury",
+    "duration": 12,
+    "countries": ["Malta"],
+    "overnight locations": {
+      "Valletta": { "country": "Malta", "overnights": 4 },
+      "Mdina": { "country": "Malta", "overnights": 3 },
+      "Gozo": { "country": "Malta", "overnights": 4 }
+    }
+  },
+  {
+    "name": "Dutch & Belgian Canals",
+    "brand": "EcoTravel",
+    "start_city": "Amsterdam",
+    "end_city": "Brussels",
+    "price": 1550.0,
+    "currency": "EUR",
+    "style": "Budget",
+    "duration": 10,
+    "countries": ["Netherlands", "Belgium"],
+    "overnight locations": {
+      "Amsterdam": { "country": "Netherlands", "overnights": 3 },
+      "Utrecht": { "country": "Netherlands", "overnights": 2 },
+      "Antwerp": { "country": "Belgium", "overnights": 2 },
+      "Brussels": { "country": "Belgium", "overnights": 2 }
+    }
+  },
+  {
+    "name": "Pyrenees Peak to Peak",
+    "brand": "Standard Global",
+    "start_city": "Toulouse",
+    "end_city": "San Sebastian",
+    "price": 2700.0,
+    "currency": "EUR",
+    "style": "Value",
+    "duration": 12,
+    "countries": ["France", "Spain"],
+    "overnight locations": {
+      "Toulouse": { "country": "France", "overnights": 2 },
+      "Lourdes": { "country": "France", "overnights": 2 },
+      "Andorra la Vella": { "country": "Andorra", "overnights": 2 },
+      "Pamplona": { "country": "Spain", "overnights": 2 },
+      "San Sebastian": { "country": "Spain", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Romantic Rhine & Moselle",
+    "brand": "Signature Tours",
+    "start_city": "Cologne",
+    "end_city": "Strasbourg",
+    "price": 5600.0,
+    "currency": "EUR",
+    "style": "Premium",
+    "duration": 14,
+    "countries": ["Germany", "France"],
+    "overnight locations": {
+      "Cologne": { "country": "Germany", "overnights": 3 },
+      "Cochem": { "country": "Germany", "overnights": 3 },
+      "Rudesheim": { "country": "Germany", "overnights": 3 },
+      "Strasbourg": { "country": "France", "overnights": 4 }
+    }
+  },
+  {
+    "name": "Azores Island Hopping",
+    "brand": "Elite Escapes",
+    "start_city": "Ponta Delgada",
+    "end_city": "Horta",
+    "price": 11000.0,
+    "currency": "EUR",
+    "style": "Luxury",
+    "duration": 13,
+    "countries": ["Portugal"],
+    "overnight locations": {
+      "Sao Miguel": { "country": "Portugal", "overnights": 4 },
+      "Terceira": { "country": "Portugal", "overnights": 3 },
+      "Faial": { "country": "Portugal", "overnights": 3 },
+      "Pico": { "country": "Portugal", "overnights": 2 }
+    }
+  },
+  {
+    "name": "Lapland Winter Magic",
+    "brand": "Standard Global",
+    "start_city": "Rovaniemi",
+    "end_city": "Rovaniemi",
+    "price": 4200.0,
+    "currency": "EUR",
+    "style": "Value",
+    "duration": 11,
+    "countries": ["Finland"],
+    "overnight locations": {
+      "Rovaniemi": { "country": "Finland", "overnights": 4 },
+      "Saariselka": { "country": "Finland", "overnights": 3 },
+      "Levi": { "country": "Finland", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Bohemian Exploration",
+    "brand": "EcoTravel",
+    "start_city": "Prague",
+    "end_city": "Munich",
+    "price": 1400.0,
+    "currency": "EUR",
+    "style": "Budget",
+    "duration": 10,
+    "countries": ["Czech Republic", "Germany"],
+    "overnight locations": {
+      "Prague": { "country": "Czech Republic", "overnights": 3 },
+      "Karlovy Vary": { "country": "Czech Republic", "overnights": 2 },
+      "Regensburg": { "country": "Germany", "overnights": 2 },
+      "Munich": { "country": "Germany", "overnights": 2 }
+    }
+  },
+  {
+    "name": "Amalfi & Capri Luxe",
+    "brand": "Elite Escapes",
+    "start_city": "Naples",
+    "end_city": "Sorrento",
+    "price": 18000.0,
+    "currency": "EUR",
+    "style": "Luxury",
+    "duration": 16,
+    "countries": ["Italy"],
+    "overnight locations": {
+      "Naples": { "country": "Italy", "overnights": 3 },
+      "Capri": { "country": "Italy", "overnights": 4 },
+      "Positano": { "country": "Italy", "overnights": 4 },
+      "Sorrento": { "country": "Italy", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Hungarian Vistas",
+    "brand": "Standard Global",
+    "start_city": "Budapest",
+    "end_city": "Lake Balaton",
+    "price": 2100.0,
+    "currency": "EUR",
+    "style": "Value",
+    "duration": 12,
+    "countries": ["Hungary"],
+    "overnight locations": {
+      "Budapest": { "country": "Hungary", "overnights": 4 },
+      "Eger": { "country": "Hungary", "overnights": 2 },
+      "Pecs": { "country": "Hungary", "overnights": 2 },
+      "Tihany": { "country": "Hungary", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Dorset & Devon Escape",
+    "brand": "Signature Tours",
+    "start_city": "Southampton",
+    "end_city": "Exeter",
+    "price": 4500.0,
+    "currency": "EUR",
+    "style": "Premium",
+    "duration": 12,
+    "countries": ["UK"],
+    "overnight locations": {
+      "Southampton": { "country": "UK", "overnights": 2 },
+      "Bournemouth": { "country": "UK", "overnights": 3 },
+      "Lyme Regis": { "country": "UK", "overnights": 3 },
+      "Exeter": { "country": "UK", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Slovenian Serenity",
+    "brand": "Standard Global",
+    "start_city": "Ljubljana",
+    "end_city": "Lake Bled",
+    "price": 2200.0,
+    "currency": "EUR",
+    "style": "Value",
+    "duration": 11,
+    "countries": ["Slovenia"],
+    "overnight locations": {
+      "Ljubljana": { "country": "Slovenia", "overnights": 3 },
+      "Logar Valley": { "country": "Slovenia", "overnights": 3 },
+      "Lake Bled": { "country": "Slovenia", "overnights": 4 }
+    }
+  },
+  {
+    "name": "Catalonian Coast",
+    "brand": "EcoTravel",
+    "start_city": "Barcelona",
+    "end_city": "Girona",
+    "price": 1300.0,
+    "currency": "EUR",
+    "style": "Budget",
+    "duration": 9,
+    "countries": ["Spain"],
+    "overnight locations": {
+      "Barcelona": { "country": "Spain", "overnights": 3 },
+      "Tarragona": { "country": "Spain", "overnights": 2 },
+      "Girona": { "country": "Spain", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Highland Lochs & Castles",
+    "brand": "Standard Global",
+    "start_city": "Edinburgh",
+    "end_city": "Inverness",
+    "price": 2900.0,
+    "currency": "EUR",
+    "style": "Value",
+    "duration": 11,
+    "countries": ["UK"],
+    "overnight locations": {
+      "Edinburgh": { "country": "UK", "overnights": 3 },
+      "Pitlochry": { "country": "UK", "overnights": 2 },
+      "Isle of Skye": { "country": "UK", "overnights": 3 },
+      "Inverness": { "country": "UK", "overnights": 2 }
+    }
+  },
+  {
+    "name": "Montenegro Peaks",
+    "brand": "Signature Tours",
+    "start_city": "Podgorica",
+    "end_city": "Tivat",
+    "price": 4200.0,
+    "currency": "EUR",
+    "style": "Premium",
+    "duration": 13,
+    "countries": ["Montenegro"],
+    "overnight locations": {
+      "Podgorica": { "country": "Montenegro", "overnights": 2 },
+      "Zabljak": { "country": "Montenegro", "overnights": 3 },
+      "Budva": { "country": "Montenegro", "overnights": 4 },
+      "Tivat": { "country": "Montenegro", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Basque Country Explorer",
+    "brand": "Elite Escapes",
+    "start_city": "Bilbao",
+    "end_city": "Biarritz",
+    "price": 12500.0,
+    "currency": "EUR",
+    "style": "Luxury",
+    "duration": 13,
+    "countries": ["Spain", "France"],
+    "overnight locations": {
+      "Bilbao": { "country": "Spain", "overnights": 4 },
+      "San Sebastian": { "country": "Spain", "overnights": 4 },
+      "Biarritz": { "country": "France", "overnights": 4 }
+    }
+  },
+  {
+    "name": "Bulgarian Heritage",
+    "brand": "EcoTravel",
+    "start_city": "Sofia",
+    "end_city": "Plovdiv",
+    "price": 1050.0,
+    "currency": "EUR",
+    "style": "Budget",
+    "duration": 11,
+    "countries": ["Bulgaria"],
+    "overnight locations": {
+      "Sofia": { "country": "Bulgaria", "overnights": 3 },
+      "Veliko Tarnovo": { "country": "Bulgaria", "overnights": 2 },
+      "Burgas": { "country": "Bulgaria", "overnights": 2 },
+      "Plovdiv": { "country": "Bulgaria", "overnights": 3 }
+    }
+  },
+  {
+    "name": "Danish Coastline",
+    "brand": "Standard Global",
+    "start_city": "Copenhagen",
+    "end_city": "Aarhus",
+    "price": 2800.0,
+    "currency": "EUR",
+    "style": "Value",
+    "duration": 11,
+    "countries": ["Denmark"],
+    "overnight locations": {
+      "Copenhagen": { "country": "Denmark", "overnights": 3 },
+      "Odense": { "country": "Denmark", "overnights": 2 },
+      "Aarhus": { "country": "Denmark", "overnights": 3 },
+      "Skagen": { "country": "Denmark", "overnights": 2 }
+    }
+  },
+  {
+    "name": "Crete Island Deep Dive",
+    "brand": "Signature Tours",
+    "start_city": "Heraklion",
+    "end_city": "Chania",
+    "price": 5100.0,
+    "currency": "EUR",
+    "style": "Premium",
+    "duration": 15,
+    "countries": ["Greece"],
+    "overnight locations": {
+      "Heraklion": { "country": "Greece", "overnights": 3 },
+      "Elounda": { "country": "Greece", "overnights": 4 },
+      "Rethymno": { "country": "Greece", "overnights": 3 },
+      "Chania": { "country": "Greece", "overnights": 4 }
+    }
+  },
+  {
+    "name": "Swiss & Italian Lakes",
+    "brand": "Standard Global",
+    "start_city": "Zurich",
+    "end_city": "Milan",
+    "price": 3900.0,
+    "currency": "EUR",
+    "style": "Value",
+    "duration": 11,
+    "countries": ["Switzerland", "Italy"],
+    "overnight locations": {
+      "Zurich": { "country": "Switzerland", "overnights": 2 },
+      "Lugano": { "country": "Switzerland", "overnights": 3 },
+      "Lake Como": { "country": "Italy", "overnights": 3 },
+      "Milan": { "country": "Italy", "overnights": 2 }
+    }
+  }
+]
